@@ -51,9 +51,9 @@ sudo systemctl enable mariadb
 
 echo "Securing MariaDB installation..."
 sudo mysql_secure_installation <<EOFSCRIPT
-   Daddybst3597.
-   n
-   n
+   Y
+   testtrial@123
+   testtrial@123
    Y
    Y
    Y
